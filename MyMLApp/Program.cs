@@ -2,6 +2,7 @@
 using System;
 using MyMLAppML.Model;
 
+    // opdracht 1 voor tekst
 namespace myMLApp
 {
     class Program
